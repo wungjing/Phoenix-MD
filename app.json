@@ -1,18 +1,18 @@
 {
-  "name": "Phoenix-MD",
+  "name": "VIRUSI 🦠 MBAYA HIV",
   "version": "1.0.0",
-  "description": "Phoenix-MD Simple WhatsApp Bot",
+  "description": "VIRUSI 🦠 MBAYA HIV is Simple WhatsApp virus 🦟",
   "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "virus", "virusi 🦠 mbaya", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/wungjing/Phoenix-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Phoenix~dprQDy1i",
       "required": true
     },
     "HANDLERS": {
-      "description": "Enter Prefix For Commands",
+      "description": "Ñ",
       "required": false,
       "value": ","
     },
@@ -27,31 +27,31 @@
       "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
+      "description": "",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "VIRUSI 🦠 HIV"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "254748721079"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "VIRUSI 🦠 MBAYA-MD"
     },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "HEROKU_APP_NAME": {
-      "description": "Enter Your Heroku App Name Same As Above You Entered",
+      "description": "agrigator1",
       "required": true
     },
     "HEROKU_API_KEY": {
-      "description": "Enter Your Heroku Account Api Key. Get It From https://dashboard.heroku.com/account",
+      "description": "HRKU-5c5482a8-a105-49bf-9af6-096fa5152813",
       "required": true
     },
     "AUTO_REACT": {
